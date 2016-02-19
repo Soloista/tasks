@@ -1,0 +1,50 @@
+KANBAN TICKET(S):
+    JCW:
+        ☐ #6586 [JCW] Auto-applycoupon
+            Bugs:
+                ✔ Bug (#9656): [JCW]Display of "Take $0.00 discount off your purchase! Click here to apply site wide coupon SWSAVE10L" on restricted items @done(2016-02-19 12:54) @project(KANBAN TICKET(S) / JCW / Bugs)
+                ☐ Bug (#9646): [JCW] Coupon is not expired after checkout
+                ☐ Bug (#9648): [JCW] Auto applied coupon expired after manual input
+
+FEB172016 [BOBIS]:
+    Give the following tickets an LOE:
+        ✔ #9559 [DBP][BOBIS][SERP] Implement Badge if US IP/Zip @done(2016-02-18 10:33) @project(FEB172016 [BOBIS] / Give the following tickets an LOE)
+        ✔ #9560 [DBP][BOBIS][PDP] Implement Badge if US IP/Zip @done(2016-02-18 10:23) @project(FEB172016 [BOBIS] / Give the following tickets an LOE)
+        ✔ #9552 [DBP][BOBIS] Setup Instance of Hydra instance @done(2016-02-18 10:23) @project(FEB172016 [BOBIS] / Give the following tickets an LOE)
+        ✔ #9558 [DBP][BOBIS] Setup Instance of DBP @done(2016-02-18 10:23) @project(FEB172016 [BOBIS] / Give the following tickets an LOE)
+        ✔ #9557 [DBP][BOBIS] Object/Service development @done(2016-02-18 10:23) @project(FEB172016 [BOBIS] / Give the following tickets an LOE)
+        ✔ #9561 [DBP][BOBIS] Implement caching @done(2016-02-18 10:23) @project(FEB172016 [BOBIS] / Give the following tickets an LOE)
+        ✔ #9551 [DBP][BOBIS] Familiarization with Hydra @done(2016-02-18 10:23) @project(FEB172016 [BOBIS] / Give the following tickets an LOE)
+        ✔ #9553 [DBP][BOBIS] Extend GeoIP service @done(2016-02-18 10:41) @project(FEB172016 [BOBIS] / Give the following tickets an LOE)
+        ✔ #9556 [DBP][BOBIS] Endpoint Setup Req/Resp @done(2016-02-18 10:23) @project(FEB172016 [BOBIS] / Give the following tickets an LOE)
+        ✔ #9555 [DBP][BOBIS] DB Setup (data sanitation) @done(2016-02-18 10:23) @project(FEB172016 [BOBIS] / Give the following tickets an LOE)
+        ✔ #9554 [DBP][BOBIS] Create Shop service @done(2016-02-18 10:23) @project(FEB172016 [BOBIS] / Give the following tickets an LOE)
+
+BOBIS TASKS:
+    ✔ #9558 [DBP][BOBIS] Setup Instance of DBP @done(2016-02-18 10:43) @project(BOBIS TASKS)
+    ✔ #9552 [DBP][BOBIS] Setup Instance of Hydra instance @done(2016-02-18 16:39) @project(BOBIS TASKS)
+        services/Platform:
+            ✔ Automotive2 @done(2016-02-18 12:26) @project(BOBIS TASKS / services/Platform)
+            ✔ Catalog2 @done(2016-02-18 12:27) @project(BOBIS TASKS / services/Platform)
+            ✔ Content2 @done(2016-02-18 12:27) @project(BOBIS TASKS / services/Platform)
+            ✔ Endeca2 @done(2016-02-18 12:28) @project(BOBIS TASKS / services/Platform)
+            ✔ Myaccount2 @done(2016-02-18 12:29) @project(BOBIS TASKS / services/Platform)
+            ✔ Orderitems2 @done(2016-02-18 12:30) @project(BOBIS TASKS / services/Platform)
+            ✔ Order2 @done(2016-02-18 12:30) @project(BOBIS TASKS / services/Platform)
+            ✔ Ordermetrics @done(2016-02-18 12:30) @project(BOBIS TASKS / services/Platform)
+            ✔ Orderwarehouse2 @done(2016-02-18 12:31) @project(BOBIS TASKS / services/Platform)
+            ✔ Bundle @done(2016-02-18 12:31) @project(BOBIS TASKS / services/Platform)
+            ✔ Certona2 @done(2016-02-18 12:31) @project(BOBIS TASKS / services/Platform)
+            ✔ Dynamicshippingcalculation2 @done(2016-02-18 12:34) @project(BOBIS TASKS / services/Platform)
+            ✔ Managerorder2 @done(2016-02-18 12:37) @project(BOBIS TASKS / services/Platform)
+            ✔ Orderitemtirerack2 @done(2016-02-18 12:38) @project(BOBIS TASKS / services/Platform)
+            ✔ Payment2 @done(2016-02-18 12:39) @project(BOBIS TASKS / services/Platform)
+            ✔ Shipment2 @done(2016-02-18 12:39) @project(BOBIS TASKS / services/Platform)
+        services/Tools:
+            ✔ GeoIP @done(2016-02-18 14:14) @project(BOBIS TASKS / services/Tools)
+            ✔ Coupon2 @done(2016-02-18 14:14) @project(BOBIS TASKS / services/Tools)
+    ☐ #9553 [DBP][BOBIS] Extend GeoIP service
+        Make the Hydra Instance use the extended version:
+            ✔ New Git Branch @done(2016-02-19 12:20) @project(BOBIS TASKS / Make the Hydra Instance use the extended version)
+            ☐ Pass the US Code and Zip Code to GeoIP Query
+            ☐ Use the extended version

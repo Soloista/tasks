@@ -2,9 +2,11 @@ KANBAN TICKET(S):
     JCW:
         ☐ #6586 [JCW] Auto-applycoupon
             Bugs:
-                ✔ Bug (#9656): [JCW]Display of "Take $0.00 discount off your purchase! Click here to apply site wide coupon SWSAVE10L" on restricted items @done(2016-02-19 12:54) @project(KANBAN TICKET(S) / JCW / Bugs)
-                ☐ Bug (#9646): [JCW] Coupon is not expired after checkout
+                ✔ Bug (#9656): [JCW] Display of "Take $0.00 discount off your purchase! Click here to apply site wide coupon SWSAVE10L" on restricted items / JCW / Bugs) @done(2016-02-19 13:08) @project(KANBAN TICKET(S) / JCW / Bugs)
+                ✔ Bug (#9646): [JCW] Coupon is not expired after checkout @done(2016-02-19 14:47) @project(KANBAN TICKET(S) / JCW / Bugs)
                 ☐ Bug (#9648): [JCW] Auto applied coupon expired after manual input
+            Change of Requirements:
+                ☐ #9022 [JCW] Sitewide Notifications Messagings.
 
 FEB172016 [BOBIS]:
     Give the following tickets an LOE:
